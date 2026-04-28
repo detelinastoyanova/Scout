@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Virtual environment
+.venv/
+
+rag_files/
+Scout_step_1.py
+Scout_step_2.py
+Scout_step_3.py
+Scout_step_4.py
+build_faiss_index.py
+query_function.py
+
+# Streamlit
+.streamlit/secrets.toml
+.streamlit/
+
+# PyCharm
+.idea/
